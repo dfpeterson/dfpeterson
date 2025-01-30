@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dfpeterson
 - 👀 I’m interested in data engineering
-- 🌱 I’m currently learning Scala and always working to hone my SQL and Python skills
+- 🌱 I’m currently learning Data Structures and Algorithms in Python and always working to hone my SQL
 - 💞️ I’m looking to collaborate on tools to make AWS or Google Cloud a better user experience
 - 📫 How to reach me dfpeterson79@verizon.net
 
